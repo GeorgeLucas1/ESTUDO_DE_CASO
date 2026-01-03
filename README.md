@@ -1,3 +1,4 @@
-# API-CRUD
-desenvolvimento de uma Api-Crud 
-NAO ATIVEI RLS
+#DESENVOLVIMENTO DE UMA API EM TYPESCRIPT
+
+
+
