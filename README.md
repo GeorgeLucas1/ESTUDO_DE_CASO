@@ -21,7 +21,7 @@ Resposta retorna pelo mesmo caminho até o CLIENTE
 ## Responsabilidades
 
 - **Router**: mapeia métodos HTTP e URLs para controllers.
-- **Middleware**: validações genéricas, autenticação, autorização, logs.
+- **Middleware**: validações genéricas, autenticação, autorização,schemas, logs.
 - **Controller**: entrada e saída da API (req/res).
 - **Service**: regras de negócio e casos de uso.
 - **Repository**: abstração de acesso ao banco.
